@@ -1,7 +1,3 @@
-Sure! Here's a clear and concise **README** for your Gradio-based Love Chatbot project:
-
----
-
 # 💖 Amora 💬 - Love in the Air
 
 A sweet and loving chatbot built with Gradio that simulates a personalized conversation with your romantic partner — be it a girlfriend or boyfriend! Customize your partner’s name and nature, and chat with a warm, affectionate AI that responds with love and emojis.
@@ -67,10 +63,4 @@ pip install gradio openai
 
 ---
 
-## License
 
-This project is open for personal use and learning purposes. Feel free to modify and extend!
-
----
-
-If you want, I can also help with instructions for deployment or connecting to OpenAI or other APIs. Just ask!
